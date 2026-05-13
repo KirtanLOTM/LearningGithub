@@ -7,6 +7,7 @@
 /.vs/LearningGit.slnx/v18
 /.vs
 /api2/.vs/api2.slnx
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 /api2/api2/obj/Release/net8.0
@@ -18,3 +19,7 @@
 /api2/api2/obj/Debug/net8.0/api2.AssemblyInfoInputs.cache
 /api2/api2/obj/Debug/net8.0/api2.AssemblyInfoInputs.cache
 /api2/api2/obj/Debug/net8.0/api2.AssemblyInfo.cs
+=======
+/api2/api2/obj/Release/net8.0
+/api2/.vs/ProjectEvaluation
+>>>>>>> cdf7909a3e18f0f74798e2a1c7d907dc62b3c102
