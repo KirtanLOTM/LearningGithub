@@ -15,6 +15,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+//NJASDF
+
 app.UseAuthorization(); // Note: This line is necessary for the [Authorize] attribute to work in controllers, but it does not actually implement any authentication or authorization logic. You would need to add authentication middleware and configure it for this to have an effect.
 app.MapControllers();
 
